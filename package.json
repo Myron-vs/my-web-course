@@ -1,0 +1,25 @@
+{
+  "name": "my-web-course",
+  "version": "1.0.0",
+  "description": "homworke 1",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myron-vs/my-web-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Myron-vs/my-web-course/issues"
+  },
+  "homepage": "https://github.com/Myron-vs/my-web-course#readme",
+  "devDependencies": {
+    "prettier": "^3.10.1"
+  }
+}
